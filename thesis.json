@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "arg",
-  "lingua": "spa",
-  "universitas": "www.uba.ar",
-  "facultas": "www.economicas.uba.ar",
-  "repositorium": "repositoriouba.sisbi.uba.ar",
-  "descriptio": "Facultad de Ciencias Económicas / Universiddad de Buenos Aires / Argentina"
+  "year": 2024,
+  "description": "Facultad de Ciencias Económicas / Universiddad de Buenos Aires / Argentina",
+  "iso_country": "arg",
+  "iso_language": "spa",
+  "url_university": "https://www.uba.ar/",
+  "url_school": "https://www.economicas.uba.ar/",
+  "url_repository": "https://repositoriouba.sisbi.uba.ar/"
 }
